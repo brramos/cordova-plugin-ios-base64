@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarahgoldman/cordova-plugin-ios-base64"
+    "url": "https://github.com/brramos/cordova-plugin-ios-base64"
   },
   "keywords": [
     "cordova",
     "base64",
     "cordova-ios"
   ],
-  "author": "Sarah Goldman",
+  "author": "Billy Ramos",
   "license": "MIT"
 }
